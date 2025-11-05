@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Root package.json that references packages via file: and link:",
   "dependencies": {
-    "express": "^4.18.0",
+    "express12312312321312312123": "^4.18.0",
     "my-local-package": "file:../my-local-package",
     "my-linked-package": "link:../my-linked-package",
     "react": "^18.2.0"
